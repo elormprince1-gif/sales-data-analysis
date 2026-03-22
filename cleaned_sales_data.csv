@@ -1,0 +1,21 @@
+order_id,customer_id,gender,age,city,product,category,price,quantity,order_date,payment_method,Revenue
+1001,C001,Male,28.0,Accra,Laptop,Electronics,1200,1,2024-01-05,Card,1200
+1002,C002,Female,34.0,Kumasi,Phone,Electronics,800,2,2024-01-06,Cash,1600
+1003,C003,Male,32.05882352941177,Accra,Headphones,Accessories,150,3,2024-01-07,Card,450
+1004,C004,Female,22.0,Tamale,Shoes,Fashion,120,1,2024-01-08,Mobile Money,120
+1005,C005,Male,45.0,Kumasi,Laptop,Electronics,1250,1,2024-01-08,Card,1250
+1006,C006,Female,29.0,Accra,Bag,Fashion,80,2,2024-01-09,Cash,160
+1007,C002,Female,34.0,Kumasi,Phone,Electronics,800,1,2024-01-10,Card,800
+1008,C007,Male,31.0,Takoradi,Watch,Accessories,200,1,2024-01-11,Mobile Money,200
+1009,C008,Female,32.05882352941177,Accra,Tablet,Electronics,600,2,2024-01-12,Card,1200
+1010,C009,Male,38.0,Kumasi,Shoes,Fashion,110,2,2024-01-13,Cash,220
+1011,C010,Female,27.0,Tamale,Phone,Electronics,750,1,2024-01-14,Mobile Money,750
+1012,C001,Male,28.0,Accra,Mouse,Accessories,25,3,2024-01-15,Card,75
+1013,C011,Female,41.0,Kumasi,Bag,Fashion,90,1,2024-01-16,Cash,90
+1014,C012,Male,36.0,Takoradi,Laptop,Electronics,1300,1,2024-01-17,Card,1300
+1015,C013,Female,30.0,Accra,Headphones,Accessories,180,2,2024-01-18,Mobile Money,360
+1016,C014,Male,32.05882352941177,Kumasi,Tablet,Electronics,650,1,2024-01-19,Card,650
+1017,C015,Female,26.0,Tamale,Shoes,Fashion,115,2,2024-01-20,Cash,230
+1018,C016,Male,33.0,Accra,Watch,Accessories,220,1,2024-01-21,Mobile Money,220
+1019,C017,Female,39.0,Kumasi,Laptop,Electronics,1400,1,2024-01-22,Card,1400
+1020,C018,Male,24.0,Takoradi,Phone,Electronics,780,2,2024-01-23,Cash,1560
